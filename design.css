@@ -115,12 +115,6 @@
   margin-top: 160px;
   text-align: center;
 }
-.gift{
-  margin-top: 160px;
-}
-#gift-img{
-  justify-content: space-between;
-}
 #sell-container{
   display: flex;
 }
@@ -137,4 +131,20 @@
 #discount50{
   margin-left: 200px;
   margin-top: 34px;
+}
+.gift{
+  margin-top: 160px;
+  margin-left: 270px;
+}
+#gift-title{
+  font-size: 48px; 
+  font-weight: 900;
+  margin: auto;
+}
+#gift-img{
+  display: flex;
+}
+.gift-img-gap{
+  margin-right: 20px;
+  margin-top: 20px;
 }
