@@ -147,6 +147,10 @@
 .gift-img-gap{
   margin-right: 20px;
   margin-top: 20px;
+  transition: 1s;
+}
+.gift-img-gap:hover{
+  transform: scale(1.2);
 }
 .subscribe{
   background-color: rgb(255, 238, 241);
@@ -203,7 +207,6 @@
 }
 .contact hr{
   width: 70%;
-  height: 1px;
   margin-top: 40px;
 }
 #contact-logo{
